@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import './main.css';
 
 ReactDOM.render(
-  <div>Hello, SAP!</div>,
+  <div>Hello, React!</div>,
   document.getElementById('app')
 );
